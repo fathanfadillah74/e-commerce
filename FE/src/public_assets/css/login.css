@@ -1,0 +1,25 @@
+body {
+    background-color: #333; 
+    color: #fff;
+}
+
+.container{
+    background-color: rgb(138, 138, 138);
+    border-radius: 15px;
+    padding: 10px;
+    position: relative;
+    height: 100%;
+    width: 75%;
+    margin-top: 25%;
+}
+
+.btn-group {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.btn-group .btn {
+    border: 2px solid #ccc; 
+    margin: 0 20px;
+}
